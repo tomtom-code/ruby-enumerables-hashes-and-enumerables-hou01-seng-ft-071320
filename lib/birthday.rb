@@ -9,4 +9,6 @@ def happy_birthday(birthday_kids)
   
   birhtday_kids.each{|kids_name, age|puts "Happy Birthday #{kids_name}! You are now #{age} years old!"}
   
+  birthday_kids
+  
 end
